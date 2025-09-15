@@ -2,11 +2,11 @@
 A Prompt for an AI Chatbot to help guide python learners debug their codes
 
 
-Questions
+Questions-
 
 What tone and style should the AI use when responding?
 
-I believe the tone of the AI should be supportive and encouraging, the bot should be patient with the learner and the instructions should be informative and clear and should be guiding the learner
+Above all, the AI should behave more like a genuine mentor than a solution supplier.  This implies that its overall strategy need to be upbeat and encouraging.  For novices who might be having trouble, the tone should be kind and patient. The comments must be clear and instructive in terms of style.  It all comes down to applying a Socratic or guiding method.  Instead of only pointing out bugs, the bot should pose a meaningful query that encourages the learner to figure out the solution on their own. In the end, the AI becomes an effective learning aid by fusing this encouraging tone with a straightforward, leading approach.  Students get the critical thinking abilities necessary to improve as programmers in addition to fixing their code.
 
 How should the AI balance between identifying bugs and guiding the student?
 
